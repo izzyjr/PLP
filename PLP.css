@@ -1,12 +1,13 @@
 .container{
     background-color: #FFFF66;
-    font-family: Impact;
+    font-family: Olive;
+    
     
     
 }
 
-.style{
-    background-image:url(http://buffaloeats.files.wordpress.com/2012/03/img_2124.jpg);
+.style {
+    background-image:url(http://www.seriouseats.com/images/2016/05/20160503-spicy-spring-pizza-.jpg);
     
 }
 
@@ -14,5 +15,75 @@
 a:link {
     text-decoration: none;
     
+    
 }
 
+article { 
+    display: block;
+}
+
+
+.container img{
+    border: 1px solid #ddd;
+    margin: 15px
+}
+
+.menu {
+    text-align: center;
+}
+
+.container h1{
+    font-family: cursive;
+}
+
+.central{
+    text-align: center;
+}
+
+.central img{
+    height: 500px;
+    width: 750px;
+}
+
+.container h3{
+    font-family: cursive;
+}
+
+.order{
+    text-align: center;
+}
+
+.container footer{
+    background-color: white;
+}
+
+.order label{
+    font-family: cursive;
+}
+
+.central iframe{
+    margin: 15px
+}
+
+footer {
+    background: white;
+    color: black;
+    padding: 15px;
+}
+
+ul {
+    list-style: none;
+    padding: 0px;
+}
+
+a{
+    color: black;
+}
+
+nav {
+    font-size: 1.5em;
+}
+
+img {
+    text-align: center;
+}
