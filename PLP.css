@@ -87,3 +87,15 @@ nav {
 img {
     text-align: center;
 }
+
+.home p {
+    text-align: justify;
+}
+
+.footer p {
+    text-align: justify;
+}
+
+.lcol {
+    font-size: 1.5em;
+}
